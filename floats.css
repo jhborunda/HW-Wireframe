@@ -4,27 +4,28 @@
   }
   body {
       align-items: center
+    }
 
-  }
   header {
      padding: 20px;
         margin-bottom: 10px;
-  }
+    }
   
   nav {
       padding: 20px;
       margin-bottom:20px;
-  }
+    }
 
   section {
         float: left;
-        width: 33%;
+        width: 58%;
         height: 300px;
         padding: 20px;
-        margin-left: 40px;
         text-decoration-color: white;
         background: #ebebeb;
         border: 1px solid #eee;
+        clear: both;
+        margin-right: 5px;
     }
 
     h1,h2,h3 {
@@ -35,16 +36,16 @@
         background-color: #ebebeb
     }
 
-  article {
+    article {
         float: center; 
+        width: 25%;
     }
 
     aside {
         float: right;
-        width: 33%;
+        width: 40%;
         height: 300px;
         padding: 20px;
-        margin-left: 30px;
         text-decoration-color: white;
         background: #ebebeb
     }
@@ -52,4 +53,5 @@
   footer {
       padding: 20px;
       clear: both;
+      margin-top: 30px;
   }
