@@ -20,13 +20,8 @@
   section {
         float: left;
         width: 58%;
-        /* height: 280px; */
         padding: 10px;
-        /* text-decoration-color: white; */
-        /* background: #ebebeb; */
         border: 1px solid #eee;
-        /* clear: both; */
-        /* margin-right: 5px; */
     }
 
     article {
@@ -34,47 +29,22 @@
       width: 100%;
       height: 210px;
       margin-top: 30px;
-      /* padding-top: 20px; */
   }
     h1 {
       float: top; 
       width: 95%;
       height: 63px;
       margin-top: 20px;
-      /* padding: 30; */
-      /* clear: left; */
       margin: auto;
       margin-top: 40px;
-      /* text-align: center; */
-        /* clear: both;
-        float: top;
-        width: 100%;
-        height: 90px;
-        background-color: #ebebeb;
-        padding: 30px; 
-        margin: 5px;
-        height: 40px; */
     }
 
     p {
-      /* float: bottom;  */
       width: 95%;
       height: 63px;
-      /* margin-top: 5px; */
       padding-top: 20;
-      /* clear: left; */
       margin: auto;
       margin-top: 10px;
-      /* text-align: center; */
-        /* background-color: #ebebeb;
-        width: 100%;
-        Height: 40px;
-        float: bottom;
-        overflow: hidden;
-        padding: 30px;
-        margin: 5px;
-        margin-right: 5px;
-     */
     }
 
     aside {
@@ -82,19 +52,13 @@
         width: 40%;
         height: 280px;
         padding-top: 30px;
-        /* text-decoration-color: white; */
-        /* background: #ebebeb */
     }
 
   footer {
-      /* clear: both; */
       bottom: 70px;
-      /* content: 10px; */
       height: 90px;
       position: fixed;
       width: 960px;
-      /* padding: 40px; */
-      /* margin: auto; */
       margin-top: 30px;
       padding-top: 35px;
    
